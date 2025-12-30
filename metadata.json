@@ -1,0 +1,5 @@
+{
+  "name": "Cyberpunk Worm Chart",
+  "description": "A futuristic, real-time trading visualization tool that tracks price digits with a moving 'worm' and dynamic glowing effects.",
+  "requestFramePermissions": []
+}
